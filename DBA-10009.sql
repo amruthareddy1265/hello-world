@@ -1,0 +1,4 @@
+
+
+
+ALTER TABLE rtbd_seat ADD COLUMN id SERIAL PRIMARY KEY;
